@@ -1,0 +1,6 @@
+@meddleware_pipline_HostAddress = http://localhost:5058
+
+GET {{meddleware_pipline_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
